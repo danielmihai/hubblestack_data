@@ -48,7 +48,7 @@
         regex: True
   recurse: True
   auto_add: True
-return: splunk_pulsar_return
+return: logstash_pulsar_return
 checksum: sha256
 stats: True
 batch: True
